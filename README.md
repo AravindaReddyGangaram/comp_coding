@@ -1,1 +1,1 @@
-# comp_coding
+# Solving a question each day
